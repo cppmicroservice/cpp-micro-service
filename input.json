@@ -1,0 +1,160 @@
+{
+  "customer_name": "John Doe",
+  "items": [
+    {
+      "item_type": "Shirt",
+      "brand_name": "Zara",
+      "eat_type": "NE",
+      "perishable_or_fragile": "NF",
+      "mrp": 2000,
+      "weight": 0.2,
+      "country_of_manufacture": "Spain",
+      "import_duty": 10,
+      "num_items": 2
+    },
+    {
+      "item_type": "Pasta",
+      "brand_name": "Barilla",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 200,
+      "weight": 1.0,
+      "country_of_manufacture": "Italy",
+      "import_duty": 5,
+      "num_items": 5
+    },
+    {
+      "item_type": "Lamp",
+      "brand_name": "Ikea",
+      "eat_type": "NE",
+      "perishable_or_fragile": "F",
+      "mrp": 5000,
+      "weight": 0.5,
+      "country_of_manufacture": "Sweden",
+      "import_duty": 5,
+      "num_items": 1
+    },
+    {
+      "item_type": "Cheese",
+      "brand_name": "Amul",
+      "eat_type": "E",
+      "perishable_or_fragile": "P",
+      "mrp": 500,
+      "weight": 0.5,
+      "country_of_manufacture": "India",
+      "import_duty": 0,
+      "num_items": 2
+    },
+    {
+      "item_type": "Jeans",
+      "brand_name": "Levis",
+      "eat_type": "NE",
+      "perishable_or_fragile": "NF",
+      "mrp": 3000,
+      "weight": 1.0,
+      "country_of_manufacture": "USA",
+      "import_duty": 15,
+      "num_items": 1
+    },
+    {
+      "item_type": "Biscuit",
+      "brand_name": "ParleG",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 10,
+      "weight": 0.1,
+      "country_of_manufacture": "India",
+      "import_duty": 0,
+      "num_items": 10
+    },
+    {
+      "item_type": "Yogurt",
+      "brand_name": "Nestle",
+      "eat_type": "E",
+      "perishable_or_fragile": "P",
+      "mrp": 20,
+      "weight": 0.5,
+      "country_of_manufacture": "Switzerland",
+      "import_duty": 5,
+      "num_items": 6
+    },
+    {
+      "item_type": "Shoes",
+      "brand_name": "Nike",
+      "eat_type": "NE",
+      "perishable_or_fragile": "NF",
+      "mrp": 5000,
+      "weight": 1.0,
+      "country_of_manufacture": "USA",
+      "import_duty": 15,
+      "num_items": 1
+    },
+    {
+      "item_type": "Bread",
+      "brand_name": "Britannia",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 30,
+      "weight": 0.5,
+      "country_of_manufacture": "India",
+      "import_duty": 0,
+      "num_items": 1
+    },
+    {
+      "item_type": "Butter",
+      "brand_name": "Amul",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 50,
+      "weight": 0.5,
+      "country_of_manufacture": "India",
+      "import_duty": 0,
+      "num_items": 2
+    },
+    {
+      "item_type": "Juice",
+      "brand_name": "Tropicana",
+      "eat_type": "E",
+      "perishable_or_fragile": "P",
+      "mrp": 120,
+      "weight": 1.0,
+      "country_of_manufacture": "USA",
+      "import_duty": 5,
+      "num_items": 3
+    },
+    {
+      "item_type": "Chocolate",
+      "brand_name": "Cadbury",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 100,
+      "weight": 0.2,
+      "country_of_manufacture": "UK",
+      "import_duty": 5,
+      "num_items": 5
+    },
+    {
+      "item_type": "Cereal",
+      "brand_name": "Kelloggs",
+      "eat_type": "E",
+      "perishable_or_fragile": "NP",
+      "mrp": 200,
+      "weight": 0.5,
+      "country_of_manufacture": "USA",
+      "import_duty": 5,
+      "num_items": 2
+    },
+    {
+      "item_type": "Milk",
+      "brand_name": "Amul",
+      "eat_type": "E",
+      "perishable_or_fragile": "P",
+      "mrp": 50,
+      "weight": 1.0,
+      "country_of_manufacture": "India",
+      "import_duty": 0,
+      "num_items": 2
+    }
+  ]
+}
+
